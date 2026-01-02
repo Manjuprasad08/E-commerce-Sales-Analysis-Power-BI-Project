@@ -11,89 +11,89 @@ The objective of this project is to create an interactive Power BI dashboard tha
 
 ## Objectives
 
-Analyze overall sales performance
+- Analyze overall sales performance
 
-Track revenue and order trends over time
+- Track revenue and order trends over time
 
-Identify top-selling products and categories
+- Identify top-selling products and categories
 
-Understand customer and regional sales behavior
+- Understand customer and regional sales behavior
 
-Support business decision making using visual analytics
+- Support business decision making using visual analytics
 
 ## Dataset
 The dataset contains e-commerce transaction details such as:
--Order ID
+- Order ID
 
--Customer ID
+- Customer ID
 
--Product Category
+- Product Category
 
--Product Name
+- Product Name
 
--Quantity
+- Quantity
 
--Price
+- Price
 
--Payment Method
+- Payment Method
 
--Order Date
+- Order Date
 
--Region
+- Region
 
 ## Steps Followed
 
--Loaded the dataset into Power BI
+- Loaded the dataset into Power BI
 
--Cleaned and transformed data using Power Query
+- Cleaned and transformed data using Power Query
 
--Created calculated columns and measures using DAX
+- Created calculated columns and measures using DAX
 
--Built relationships between tables
+- Built relationships between tables
 
--Designed interactive dashboards and visuals
+- Designed interactive dashboards and visuals
 
--Added filters and slicers for better analysis
+- Added filters and slicers for better analysis
 
 ## Power BI Features Used
 
--Power Query for data cleaning
+- Power Query for data cleaning
 
--DAX for calculations and KPIs
+- DAX for calculations and KPIs
 
--KPI cards for key metrics
+- KPI cards for key metrics
 
--Bar charts, line charts, and tables
+- Bar charts, line charts, and tables
 
--Slicers for interactive filtering
+- Slicers for interactive filtering
 
 ## Key Insights
 
--Certain product categories generate the highest revenue
+- Certain product categories generate the highest revenue
 
--Sales show clear trends over different time periods
+- Sales show clear trends over different time periods
 
--Some regions contribute more to overall sales
+- Some regions contribute more to overall sales
 
--Customer purchasing behavior varies across categories
+- Customer purchasing behavior varies across categories
 
 ## Results
 
--Built an interactive Power BI dashboard for sales analysis
+- Built an interactive Power BI dashboard for sales analysis
 
--Improved visibility into sales performance and trends
+- Improved visibility into sales performance and trends
 
--Enabled quick and effective business analysis
+- Enabled quick and effective business analysis
 
 ## Tools & Technologies
 
--Power BI Desktop
+- Power BI Desktop
 
--Power Query
+- Power Query
 
--DAX
+- DAX
 
--CSV Dataset
+- CSV Dataset
 
 ## Conclusion
 
